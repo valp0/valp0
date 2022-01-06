@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [@valp0](https://github.com/valp0)
+- 👋 Hi, I’m [Alfonso](https://github.com/valp0).
 - 👀 I’m interested in software development in general, from web development to algorithms and data structures.
 - 🌱 I’m currently learning SQL databases and AWS in general.
 - 💞️ I’m looking to collaborate on open source projects using Go, Python or JavaScript.
